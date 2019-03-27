@@ -1,7 +1,3 @@
-% Edrick Ramos
-% CPE 592 - Comp&Multimedia Network Security
-% Professor Chandramouli
-% Homework 1
 % LSBstega.m
 
 
